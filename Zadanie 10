@@ -1,0 +1,8 @@
+import os
+os.system("cls")
+
+list = ["The Shawshank Redemption", "Inception", "Fight Club", "Godfather", "Prestige", "Pulp Fiction", "Snatch", "Shutter Island"
+print(list)
+
+list.sort()
+print(list)

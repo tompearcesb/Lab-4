@@ -1,0 +1,7 @@
+import os
+os.system("cls")
+
+imie = "ALIAKSEI"
+nazwisko = "VASILEVICH"
+
+print(name.capitalize() + " " + surname.capitalize())

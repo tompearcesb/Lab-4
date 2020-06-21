@@ -1,0 +1,6 @@
+my_mates = {
+  'Name': ['Paweł','Julian'], 
+  'Surname': ['Minkiewicz','Andreev'],
+}
+print(my_mates['Name'])
+print(my_mates['Surname'])
